@@ -4,15 +4,11 @@
 
 <h2 align="center"> Created a simple interactive Makeup Quiz Website using HTML, CSS and JavaScript! </h2>
 
----
-
 ## Breakdown of the Repository Files:
 
 - index.html - Consists of HTML code for the webpage.
 - styles.css - Consists of CSS code for styling the webpage.
 - script.js - Consists of JavaScript code for making the webpage interactive.
-
----
 
 ## Makeup Quiz Demo
 
