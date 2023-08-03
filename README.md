@@ -14,6 +14,10 @@ Created a simple interactive Makeup Quiz Website using HTML, CSS and JavaScript!
 
 ## Makeup Quiz Demo
 
+<video src='your URL here' width=180/>
+
+---
+
 ## Support
 
 If you have any questions please email me at desiree2dmello@gmail.com
