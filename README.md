@@ -16,7 +16,6 @@ Created a simple interactive Makeup Quiz Website using HTML, CSS and JavaScript!
 
 <video src='https://github.com/desireedmello/Makeup-Quiz/assets/76941265/e2f0bb2b-8d82-4bc2-853a-0153b1a4a6fe' width=180/>
 
----
 
 ## Support
 
