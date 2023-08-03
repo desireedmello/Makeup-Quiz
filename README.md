@@ -2,7 +2,7 @@
 
 ![Screenshot 2023-08-02 202800](https://github.com/desireedmello/Makeup-Quiz/assets/76941265/c4e84d14-d646-439d-90be-1a5487a7b138)
 
-Created a simple interactive Makeup Quiz Website using HTML, CSS and JavaScript!
+<h2 align="center"> Created a simple interactive Makeup Quiz Website using HTML, CSS and JavaScript! </h2>h2>
 
 ---
 
